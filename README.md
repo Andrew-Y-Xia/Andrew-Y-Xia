@@ -1,15 +1,6 @@
-<div align="center" style="position: relative; display: inline-block;">
+<div align="center">
 
 ![Conway's Game of Life Animation](gol_animation.gif)
-
-<div style="position: absolute; top: 240px; left: 60%; transform: translateX(-50%); text-align: center; pointer-events: none; z-index: 1000;">
-  <div style="color: #3fb950; font-size: 40px; margin: 0; font-weight: bold; font-family: 'Monaco', 'Courier New', monospace; letter-spacing: 2px; text-shadow: 0 0 30px rgba(63, 185, 80, 0.4), 0 0 20px rgba(0, 0, 0, 1), 2px 2px 6px rgba(0, 0, 0, 1); white-space: nowrap;">hi there ! i'm andrew</div>
-  <div style="color: #3fb950; font-size: 22px; margin: 8px 0 0 0; font-weight: bold; font-family: 'Monaco', 'Courier New', monospace; letter-spacing: 2px; text-shadow: 0 0 20px rgba(63, 185, 80, 0.3), 0 0 15px rgba(0, 0, 0, 1), 1px 1px 3px rgba(0, 0, 0, 1);">(0.1x dev)</div>
-</div>
-
-</div>
-
-<div align="center">
 
 *Conway's Game of Life - 8 FPS animation*
 
